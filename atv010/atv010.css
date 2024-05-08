@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.top{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.cabeca{
+    background-color: rgb(172, 225, 225 );
+    height: 400px;
+}
+.banner{
+    padding-top: 45px;
+}
